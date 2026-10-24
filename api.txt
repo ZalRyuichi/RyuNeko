@@ -1,1 +1,1 @@
-http://dikzpanel.digitalocean-cloud.my.id:4557
+https://pizza-submission-oxide-beta.trycloudflare.com
